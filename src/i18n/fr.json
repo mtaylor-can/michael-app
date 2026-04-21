@@ -57,37 +57,35 @@
     "items": [
       {
         "question": "Quelle est ta philosophie de leadership?",
-        "answer": "Je crois que les résultats sont le reflet direct des comportements individuels. Mon rôle est de développer l’autonomie, la réflexion stratégique et la responsabilité plutôt que d’imposer du contrôle. Je privilégie un leadership basé sur le questionnement pour élever les standards et rendre la performance prévisible."
+        "answer": "Je crois que les résultats sont le reflet direct des comportements individuels. Mon rôle est de développer l’autonomie, la réflexion stratégique et la responsabilité plutôt que d’imposer du contrôle."
       },
       {
         "question": "Comment accompagnes‑tu tes équipes dans des environnements scientifiques complexes?",
-        "answer": "J’apporte structure, rigueur et constance. Je simplifie la complexité scientifique en la transformant en comportements concrets, mesurables et reproductibles. Mon objectif est de renforcer la crédibilité scientifique tout en maintenant une exécution commerciale disciplinée."
+        "answer": "J’apporte structure, rigueur et constance. Je simplifie la complexité scientifique en la transformant en comportements concrets, mesurables et reproductibles."
       },
       {
         "question": "Qu’est‑ce qui te distingue comme leader commercial?",
-        "answer": "Je me concentre sur la transformation comportementale plutôt que sur le micro‑management. Je combine performance commerciale et crédibilité scientifique, tout en restant calme sous pression et orienté vers des résultats durables."
+        "answer": "Je me concentre sur la transformation comportementale plutôt que sur le micro‑management. Je combine performance commerciale et crédibilité scientifique."
       },
       {
         "question": "Comment développes‑tu l’autonomie et la responsabilité dans une équipe?",
-        "answer": "Je commence par clarifier les attentes, puis j’utilise le questionnement stratégique pour amener chacun à réfléchir, décider et agir avec intention. L’autonomie précède la performance durable, et la responsabilité se construit par la confiance et la préparation."
+        "answer": "Je clarifie les attentes, puis j’utilise le questionnement stratégique pour amener chacun à réfléchir, décider et agir avec intention."
       },
       {
         "question": "Comment gères‑tu les situations difficiles ou les baisses de performance?",
-        "answer": "Avec courage, transparence et empathie stratégique. Je confronte les enjeux rapidement, je clarifie les comportements attendus et j’accompagne la personne dans un plan d’amélioration concret, mesurable et soutenu par un coaching rigoureux."
+        "answer": "Avec courage, transparence et empathie stratégique. Je confronte les enjeux rapidement et j’accompagne la personne dans un plan d’amélioration concret."
       },
       {
         "question": "Quelles sont les valeurs qui guident ton travail au quotidien?",
-        "answer": "Intégrité, excellence, courage, empathie stratégique et persistance. Ces valeurs orientent mes décisions, mes interactions et ma manière de développer des équipes autonomes, crédibles et performantes."
+        "answer": "Intégrité, excellence, courage, empathie stratégique et persistance."
       }
     ]
   },
 
   "contact": {
-  "title": "Contact",
-  "text": "Vous pouvez me contacter pour toute opportunité professionnelle ou collaboration stratégique.",
-  "phone": "514-296-2431",
-  "email": "mtaylor@videotron.ca"
-}
-
+    "title": "Contact",
+    "text": "Vous pouvez me contacter pour toute opportunité professionnelle ou collaboration stratégique.",
+    "phone": "514-296-2431",
+    "email": "mtaylor@videotron.ca"
   }
 }

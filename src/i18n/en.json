@@ -81,13 +81,11 @@
       }
     ]
   },
-"contact": {
-  "title": "Contact",
-  "text": "You can contact me for any professional opportunity or strategic collaboration.",
-  "phone": "+1 514-296-2431",
-  "email": "mtaylor@videotron.ca"
-}
 
-  
+  "contact": {
+    "title": "Contact",
+    "text": "You can contact me for any professional opportunity or strategic collaboration.",
+    "phone": "+1 514-296-2431",
+    "email": "mtaylor@videotron.ca"
   }
 }
