@@ -1,13 +1,17 @@
+import { useTranslation } from "react-i18next";
 import Section from "../components/Section";
+import "./Home.css";
 
 export default function Home() {
+  const { t } = useTranslation();
+
   return (
-    <Section title="Bienvenue">
-      <p>
-        Bienvenue sur mon profil professionnel. Vous trouverez ici mes valeurs,
-        mon approche de leadership, mon expérience et une présentation claire de
-        qui je suis en tant que leader dans l’industrie pharmaceutique.
-      </p>
+    <Section title={t("home.title")}>
+      <div className="home-container">
+        <img src="/photo.jpg" alt="Michael Taylor" className="profile-photo" />
+
+        <p>{t("home.text")}</p>
+      </div>
     </Section>
   );
 }

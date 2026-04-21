@@ -1,14 +1,12 @@
+import { useTranslation } from "react-i18next";
 import Section from "../components/Section";
 
 export default function About() {
+  const { t } = useTranslation();
+
   return (
-    <Section title="À propos">
-      <p>
-        Leader stratégique bilingue (FR/EN) avec plus de 15 ans d’expérience
-        dans l’industrie pharmaceutique et biotechnologique. Mon approche est
-        centrée sur la clarté, la rigueur, l’exécution et la création de valeur
-        durable.
-      </p>
+    <Section title={t("about.title")}>
+      <p>{t("about.text")}</p>
     </Section>
   );
 }

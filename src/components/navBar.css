@@ -2,24 +2,34 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 0;
-  border-bottom: 1px solid #1f2d40;
+  padding: 14px 28px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .nav-left a {
-  font-size: 20px;
-  font-weight: 600;
-  color: #7ab8ff;
-  text-decoration: none;
-}
-
-.nav-right a {
-  margin-left: 20px;
+  margin-right: 18px;
   text-decoration: none;
   color: #e6ecf5;
   font-weight: 400;
+  letter-spacing: 0.3px;
+  transition: opacity 0.2s ease;
 }
 
-.nav-right a:hover {
-  color: #7ab8ff;
+.nav-left a:hover {
+  opacity: 0.6;
+}
+
+.nav-right .lang-btn {
+  background: none;
+  border: none;
+  color: #e6ecf5;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  transition: opacity 0.2s ease;
+}
+
+.nav-right .lang-btn:hover {
+  opacity: 0.6;
 }

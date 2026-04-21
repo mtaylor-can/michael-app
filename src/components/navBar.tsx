@@ -1,22 +1,33 @@
 import { Link } from "react-router-dom";
-import LanguageToggle from "./LanguageToggle";
-import "./navBar.css";
+import { useTranslation } from "react-i18next";
+import "./Navbar.css";
 
-export default function NavBar() {
+export default function Navbar() {
+  const { t, i18n } = useTranslation();
+
+  const changeLanguage = (lang: string) => {
+    i18n.changeLanguage(lang);
+  };
+
   return (
     <nav className="navbar">
       <div className="nav-left">
-        <Link to="/">Michael Taylor</Link>
+        <Link to="/">{t("home.title")}</Link>
+        <Link to="/about">{t("about.title")}</Link>
+        <Link to="/values">{t("values.title")}</Link>
+        <Link to="/leadership">{t("leadership.title")}</Link>
+        <Link to="/experience">{t("experience.title")}</Link>
+        <Link to="/qa">Q&A</Link>
+        <Link to="/contact">{t("contact.title")}</Link>
       </div>
 
       <div className="nav-right">
-        <Link to="/about">À propos</Link>
-        <Link to="/values">Valeurs</Link>
-        <Link to="/leadership">Leadership</Link>
-        <Link to="/experience">Expérience</Link>
-        <Link to="/qa">Q&A</Link>
-        <Link to="/contact">Contact</Link>
-        <LanguageToggle />
+        <button onClick={() => changeLanguage("fr")} className="lang-btn">
+          FR
+        </button>
+        <button onClick={() => changeLanguage("en")} className="lang-btn">
+          EN
+        </button>
       </div>
     </nav>
   );

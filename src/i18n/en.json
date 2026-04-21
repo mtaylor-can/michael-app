@@ -3,23 +3,95 @@
     "title": "Welcome",
     "text": "Welcome to my professional profile. Here you will find my values, leadership approach, experience, and a clear presentation of who I am as a leader in the pharmaceutical industry."
   },
+
   "about": {
     "title": "About",
-    "text": "Bilingual strategic leader (FR/EN) with over 15 years of experience in the pharmaceutical and biotechnology industry."
+    "text": "Bilingual strategic leader (FR/EN) with over 15 years of experience in the pharmaceutical and biotechnology industry. I specialize in behavioral transformation, sustainable commercial performance, and developing autonomy within teams operating in complex scientific environments. I combine rigor, scientific credibility, and human-centered leadership to build accountable, autonomous teams capable of delivering predictable results."
   },
+
   "values": {
     "title": "Values"
   },
+
   "leadership": {
     "title": "Leadership"
   },
+
   "experience": {
     "title": "Experience"
   },
+
   "qa": {
-    "title": "Q&A"
+    "title": "Q&A",
+    "intro": "A section dedicated to frequent questions about my approach, values, vision, and way of working.",
+    "items": [
+      {
+        "question": "What is your leadership philosophy?",
+        "answer": "I believe results are a direct reflection of individual behaviors. My role is to develop autonomy, strategic thinking, and accountability rather than impose control. I lead through questioning to elevate standards and make performance predictable."
+      },
+      {
+        "question": "How do you support teams in complex scientific environments?",
+        "answer": "I bring structure, rigor, and consistency. I simplify scientific complexity by translating it into concrete, measurable, and repeatable behaviors. My goal is to strengthen scientific credibility while maintaining disciplined commercial execution."
+      },
+      {
+        "question": "What sets you apart as a commercial leader?",
+        "answer": "I focus on behavioral transformation rather than micro‑management. I combine commercial performance with scientific credibility, staying calm under pressure and committed to sustainable, long‑term results."
+      },
+      {
+        "question": "How do you develop autonomy and accountability within a team?",
+        "answer": "I start by clarifying expectations, then use strategic questioning to help individuals think, decide, and act with intention. Autonomy drives sustainable performance, and accountability grows through trust and preparation."
+      },
+      {
+        "question": "How do you handle difficult situations or performance issues?",
+        "answer": "With courage, transparency, and strategic empathy. I address issues quickly, clarify expected behaviors, and support the individual with a concrete, measurable improvement plan backed by rigorous coaching."
+      },
+      {
+        "question": "Which values guide your work every day?",
+        "answer": "Integrity, excellence, courage, strategic empathy, and persistence. These values shape my decisions, my interactions, and the way I develop autonomous, credible, and high‑performing teams."
+      }
+    ]
   },
+
   "contact": {
     "title": "Contact"
   }
+"values": {
+  "title": "Values",
+  "integrity": "Integrity",
+  "integrity_text": "I make decisions aligned with my principles, even when it is difficult. Integrity builds trust, and trust enables sustainable performance.",
+  "excellence": "Excellence",
+  "excellence_text": "I aim for high, measurable, and repeatable standards. Excellence is not a one-time goal — it is a daily discipline.",
+  "courage": "Courage",
+  "courage_text": "I address issues quickly, with transparency and respect. Courage enables clarity, progress, and transformation.",
+  "empathy": "Strategic Empathy",
+  "empathy_text": "I understand people, their motivations, and their constraints while maintaining focus on objectives. Empathy is not complacency — it is a performance lever.",
+  "persistence": "Persistence",
+  "persistence_text": "I maintain effort, rigor, and consistency, even in uncertainty. Persistence turns intentions into results."
+}
+"leadership": {
+  "title": "Leadership",
+  "questioning": "Question‑based leadership",
+  "questioning_text": "I develop autonomy by helping people think, decide, and act on their own. Strategic questioning builds accountability and sustainable performance.",
+  "clarity": "Clarity and rigor",
+  "clarity_text": "I clarify expectations, required behaviors, and performance standards. Rigor is not control — it is a framework that enables autonomy.",
+  "predictability": "Performance predictability",
+  "predictability_text": "I translate objectives into concrete, measurable, and repeatable behaviors. A high‑performing team is one that understands why it succeeds.",
+  "calm": "Calm under pressure",
+  "calm_text": "I maintain a stable, rational, solution‑oriented posture, even in uncertainty. Calm is a multiplier of collective performance.",
+  "development": "Talent development",
+  "development_text": "I create an environment where people can grow, stretch, and become autonomous. A leader’s role is to make others better."
+}
+"experience": {
+  "title": "Experience",
+  "years": "15+ years of experience in the pharmaceutical and biotechnology industry",
+  "years_text": "I have worked in complex environments where scientific credibility, commercial rigor, and the ability to influence multiple stakeholders are essential.",
+  "behavior": "Expertise in behavioral transformation",
+  "behavior_text": "I translate strategic objectives into concrete, measurable, and repeatable behaviors. This approach enables sustainable and predictable performance.",
+  "leadership": "Commercial and scientific leadership",
+  "leadership_text": "I have led teams in demanding contexts, combining operational excellence, scientific understanding, and the development of autonomy.",
+  "change": "Change management and organizational alignment",
+  "change_text": "I support teams through transitions by clarifying expectations, strengthening accountability, and creating a framework that enables growth.",
+  "coaching": "Coaching and talent development",
+  "coaching_text": "I develop leaders who can think, decide, and act with intention. My approach is based on strategic questioning and empowerment."
+}
 }
