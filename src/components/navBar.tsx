@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import "./NavBar.css";
+import "./navBar.css";
 
 export default function Navbar() {
   const { t, i18n } = useTranslation();
