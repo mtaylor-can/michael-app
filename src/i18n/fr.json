@@ -10,15 +10,45 @@
   },
 
   "values": {
-    "title": "Valeurs"
+    "title": "Valeurs",
+    "integrity": "Intégrité",
+    "integrity_text": "Je prends des décisions alignées avec mes principes, même lorsque c’est difficile. L’intégrité crée la confiance, et la confiance crée la performance durable.",
+    "excellence": "Excellence",
+    "excellence_text": "Je vise des standards élevés, mesurables et reproductibles. L’excellence n’est pas un objectif ponctuel, mais une discipline quotidienne.",
+    "courage": "Courage",
+    "courage_text": "Je confronte les enjeux rapidement, avec transparence et respect. Le courage permet d’avancer, de clarifier et de transformer.",
+    "empathy": "Empathie stratégique",
+    "empathy_text": "Je comprends les personnes, leurs motivations et leurs contraintes, tout en gardant le cap sur les objectifs. L’empathie n’est pas complaisance : c’est un levier de performance.",
+    "persistence": "Persistance",
+    "persistence_text": "Je maintiens l’effort, la rigueur et la constance, même dans l’incertitude. La persistance transforme les intentions en résultats."
   },
 
   "leadership": {
-    "title": "Leadership"
+    "title": "Leadership",
+    "questioning": "Leadership basé sur le questionnement",
+    "questioning_text": "Je développe l’autonomie en amenant les personnes à réfléchir, décider et agir par elles‑mêmes. Le questionnement stratégique crée la responsabilité et la performance durable.",
+    "clarity": "Clarté et rigueur",
+    "clarity_text": "Je clarifie les attentes, les comportements attendus et les standards de performance. La rigueur n’est pas du contrôle : c’est un cadre qui libère l’autonomie.",
+    "predictability": "Prévisibilité de la performance",
+    "predictability_text": "Je transforme les objectifs en comportements concrets, mesurables et reproductibles. Une équipe performante est une équipe qui sait pourquoi elle réussit.",
+    "calm": "Calme sous pression",
+    "calm_text": "Je garde une posture stable, rationnelle et orientée solutions, même dans l’incertitude. Le calme est un multiplicateur de performance collective.",
+    "development": "Développement des talents",
+    "development_text": "Je crée un environnement où les personnes peuvent grandir, se dépasser et devenir autonomes. Le rôle d’un leader est de rendre les autres meilleurs."
   },
 
   "experience": {
-    "title": "Expérience"
+    "title": "Expérience",
+    "years": "15+ ans d’expérience dans l’industrie pharmaceutique et biotechnologique",
+    "years_text": "J’ai évolué dans des environnements complexes où la crédibilité scientifique, la rigueur commerciale et la capacité à influencer des parties prenantes multiples sont essentielles.",
+    "behavior": "Expertise en transformation comportementale",
+    "behavior_text": "Je transforme des objectifs stratégiques en comportements concrets, mesurables et reproductibles. Cette approche permet d’obtenir une performance durable et prévisible.",
+    "leadership": "Leadership commercial et scientifique",
+    "leadership_text": "J’ai dirigé des équipes dans des contextes exigeants, en combinant excellence opérationnelle, compréhension scientifique et développement de l’autonomie.",
+    "change": "Gestion du changement et alignement organisationnel",
+    "change_text": "J’accompagne les équipes dans des périodes de transition, en clarifiant les attentes, en renforçant la responsabilité et en créant un cadre qui favorise la croissance.",
+    "coaching": "Coaching et développement des talents",
+    "coaching_text": "Je développe des leaders capables de réfléchir, décider et agir avec intention. Mon approche repose sur le questionnement stratégique et la responsabilisation."
   },
 
   "qa": {
@@ -54,44 +84,5 @@
 
   "contact": {
     "title": "Contact"
-  },
-"values": {
-  "title": "Valeurs",
-  "integrity": "Intégrité",
-  "integrity_text": "Je prends des décisions alignées avec mes principes, même lorsque c’est difficile. L’intégrité crée la confiance, et la confiance crée la performance durable.",
-  "excellence": "Excellence",
-  "excellence_text": "Je vise des standards élevés, mesurables et reproductibles. L’excellence n’est pas un objectif ponctuel, mais une discipline quotidienne.",
-  "courage": "Courage",
-  "courage_text": "Je confronte les enjeux rapidement, avec transparence et respect. Le courage permet d’avancer, de clarifier et de transformer.",
-  "empathy": "Empathie stratégique",
-  "empathy_text": "Je comprends les personnes, leurs motivations et leurs contraintes, tout en gardant le cap sur les objectifs. L’empathie n’est pas complaisance : c’est un levier de performance.",
-  "persistence": "Persistance",
-  "persistence_text": "Je maintiens l’effort, la rigueur et la constance, même dans l’incertitude. La persistance transforme les intentions en résultats."
-}
-"leadership": {
-  "title": "Leadership",
-  "questioning": "Leadership basé sur le questionnement",
-  "questioning_text": "Je développe l’autonomie en amenant les personnes à réfléchir, décider et agir par elles‑mêmes. Le questionnement stratégique crée la responsabilité et la performance durable.",
-  "clarity": "Clarté et rigueur",
-  "clarity_text": "Je clarifie les attentes, les comportements attendus et les standards de performance. La rigueur n’est pas du contrôle : c’est un cadre qui libère l’autonomie.",
-  "predictability": "Prévisibilité de la performance",
-  "predictability_text": "Je transforme les objectifs en comportements concrets, mesurables et reproductibles. Une équipe performante est une équipe qui sait pourquoi elle réussit.",
-  "calm": "Calme sous pression",
-  "calm_text": "Je garde une posture stable, rationnelle et orientée solutions, même dans l’incertitude. Le calme est un multiplicateur de performance collective.",
-  "development": "Développement des talents",
-  "development_text": "Je crée un environnement où les personnes peuvent grandir, se dépasser et devenir autonomes. Le rôle d’un leader est de rendre les autres meilleurs."
-}
-"experience": {
-  "title": "Expérience",
-  "years": "15+ ans d’expérience dans l’industrie pharmaceutique et biotechnologique",
-  "years_text": "J’ai évolué dans des environnements complexes où la crédibilité scientifique, la rigueur commerciale et la capacité à influencer des parties prenantes multiples sont essentielles.",
-  "behavior": "Expertise en transformation comportementale",
-  "behavior_text": "Je transforme des objectifs stratégiques en comportements concrets, mesurables et reproductibles. Cette approche permet d’obtenir une performance durable et prévisible.",
-  "leadership": "Leadership commercial et scientifique",
-  "leadership_text": "J’ai dirigé des équipes dans des contextes exigeants, en combinant excellence opérationnelle, compréhension scientifique et développement de l’autonomie.",
-  "change": "Gestion du changement et alignement organisationnel",
-  "change_text": "J’accompagne les équipes dans des périodes de transition, en clarifiant les attentes, en renforçant la responsabilité et en créant un cadre qui favorise la croissance.",
-  "coaching": "Coaching et développement des talents",
-  "coaching_text": "Je développe des leaders capables de réfléchir, décider et agir avec intention. Mon approche repose sur le questionnement stratégique et la responsabilisation."
-}
+  }
 }
