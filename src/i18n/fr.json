@@ -1,0 +1,25 @@
+{
+  "home": {
+    "title": "Bienvenue",
+    "text": "Bienvenue sur mon profil professionnel. Vous trouverez ici mes valeurs, mon approche de leadership, mon expérience et une présentation claire de qui je suis en tant que leader dans l’industrie pharmaceutique."
+  },
+  "about": {
+    "title": "À propos",
+    "text": "Leader stratégique bilingue (FR/EN) avec plus de 15 ans d’expérience dans l’industrie pharmaceutique et biotechnologique."
+  },
+  "values": {
+    "title": "Valeurs"
+  },
+  "leadership": {
+    "title": "Leadership"
+  },
+  "experience": {
+    "title": "Expérience"
+  },
+  "qa": {
+    "title": "Q&A"
+  },
+  "contact": {
+    "title": "Contact"
+  }
+}
