@@ -19,6 +19,9 @@ export default function Navbar() {
         <Link to="/experience">{t("experience.title")}</Link>
         <Link to="/qa">Q&A</Link>
         <Link to="/contact">{t("contact.title")}</Link>
+
+        {/* AJOUT CORRECT DU CV */}
+        <Link to="/cv">CV</Link>
       </div>
 
       <div className="nav-right">
@@ -31,5 +34,4 @@ export default function Navbar() {
       </div>
     </nav>
   );
-<li><a href="/cv">CV</a></li>
 }
