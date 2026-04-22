@@ -10,8 +10,8 @@ export default function Contact() {
       <p>{t("contact.text")}</p>
 
       <div className="contact-info" style={{ marginTop: "20px" }}>
-        <p><strong>Téléphone :</strong> {t("contact.phone")}</p>
-        <p><strong>Email :</strong> {t("contact.email")}</p>
+        <p><strong>{t("contact.phone_label")} :</strong> {t("contact.phone")}</p>
+	<p><strong>{t("contact.email_label")} :</strong> {t("contact.email")}</p>
       </div>
     </div>
   );
