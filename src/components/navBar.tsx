@@ -31,4 +31,5 @@ export default function Navbar() {
       </div>
     </nav>
   );
+<li><a href="/cv">CV</a></li>
 }
