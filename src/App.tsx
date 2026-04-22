@@ -7,7 +7,7 @@ import Leadership from "./pages/Leadership";
 import Experience from "./pages/Experience";
 import QA from "./pages/QA";
 import Contact from "./pages/Contact";
-
+import CV from "./pages/CV";
 export default function App() {
   return (
     <BrowserRouter>
@@ -20,6 +20,7 @@ export default function App() {
           <Route path="/experience" element={<Experience />} />
           <Route path="/qa" element={<QA />} />
           <Route path="/contact" element={<Contact />} />
+          import CV from "./pages/CV";
         </Routes>
       </Layout>
     </BrowserRouter>
