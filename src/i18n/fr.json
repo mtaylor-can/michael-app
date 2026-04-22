@@ -89,4 +89,9 @@
   "phone": "+1 514-296-2431",
   "email": "mtaylor@videotron.ca"
   }
+"cv": {
+  "title": "Télécharger mon CV",
+  "cv_fr": "CV en français",
+  "cv_en": "CV en anglais"
+ }
 }
